@@ -46,8 +46,8 @@ import re
 VERSION = "1.1.9"
 
 # Config Variables
-BOT_NAME = ""
-BOT_ICON_URL = ""
+BOT_NAME = "nishbot"
+BOT_ICON_URL = "http://i.huffpost.com/gen/2714370/images/o-POOP-EMOJI-ICE-CREAM-facebook.jpg"
 SLACK = False
 GOOGLECAL = False
 LOGGER = False

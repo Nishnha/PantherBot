@@ -1,6 +1,7 @@
 /logs/*
 /secrets/*
 /config/*
+/env/*
 *.pyc
 # swap
 [._]*.s[a-v][a-z]
